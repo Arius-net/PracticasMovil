@@ -1,4 +1,4 @@
-package com.edmonbl.cuartitocapp.ui.theme
+package com.sayd.cuartitocapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

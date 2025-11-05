@@ -1,4 +1,4 @@
-package com.edmonbl.cuartitocapp
+package com.sayd.cuartitocapp
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
@@ -6,8 +6,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.edmonbl.cuartitocapp.ui.screens.DashboardScreen
-import com.edmonbl.cuartitocapp.ui.screens.StudentDetailScreen
+import com.sayd.cuartitocapp.ui.screens.DashboardScreen
+import com.sayd.cuartitocapp.ui.screens.StudentDetailScreen
 
 @Composable
 fun AppNavigation() {
