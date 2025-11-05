@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Buttons-App"
+rootProject.name = "CuartitoCApp"
 include(":app")
  
